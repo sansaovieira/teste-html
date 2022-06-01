@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <link rel="shortcut icon" href="imagem/img-principal.jpg" type="image/x-icon">
+    <script src="../javascript/teste.js"></script>
+    
+    <title>Teste</title>
+</head>
+<body>
+    <main class="conteudo-principal">
+        <h2 class="titulo">Trabalhando com JavaScript</h2>
+            
+        <nav class="menu">
+            <ul>
+                <a href="#"><img src="../html/imagem/img-principal.jpg" alt=""></a>
+                <a href="#"><li>Home</li></a>
+                <a href="#"><li>Sobre</li></a>
+                <a href="#"><li>Trabalhe Conosco</li></a>
+                <a href="#"><li>Contactos</li></a>
+            </ul>
+        </nav>
+            <button class="botao" type="button" onclick="PrimeiroTeste()">Clique aqui!</button>
+    </main>
+</body>
+</html>
+
